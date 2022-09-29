@@ -1,0 +1,254 @@
+/* General */
+h1 {
+  font-family: "Archivo", sans-serif;
+  font-weight: 700;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: "Archivo", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: grey;
+}
+
+h3 {
+  font-family: "Archivo", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: black;
+}
+
+h5 {
+  font-family: "Archivo", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: grey;
+}
+
+a {
+  color: grey;
+}
+
+/* General Class */
+.bg-cream {
+  background-color: #fefbea;
+  position: absolute;
+  top: 0px; /* Header Height */
+  bottom: 0px; /* Footer Height */
+  width: 41%;
+}
+
+.card-text {
+  color: grey;
+}
+
+.card-title {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.center {
+  position: relative;
+  margin-left: 600px;
+  max-width: 700px;
+}
+
+.footer {
+  margin-bottom: 100px;
+  margin-left: 310px;
+}
+
+.mu-img {
+  width: 100%;
+  height: auto;
+}
+
+.MU-price {
+  margin-top: 15px;
+  margin-right: 5px;
+  color: black;
+}
+
+/* General ID */
+#BTCG {
+  text-decoration: none;
+}
+
+#testimonial-text {
+  font-size: 28px;
+  color: black;
+  line-height: 40px;
+  font-weight: 700;
+}
+
+#caa-link {
+  color: #0197f6;
+}
+
+#johnny-image {
+  border-radius: 50%;
+  max-width: 40px;
+  max-height: auto;
+}
+
+#login-left {
+  padding-top: 30px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+#mu-body {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+#mu-btn {
+  width: 370px;
+}
+
+#mu-container {
+  outline-style: solid grey;
+  padding: 100px;
+}
+
+#mu-leftcard {
+  max-width: fit-content;
+  margin-left: 310px;
+}
+
+#mu-rightcard {
+  max-width: fit-content;
+}
+
+#mu-Scard {
+  margin-top: 20px;
+}
+
+/* Index Class */
+.index-body-album {
+  padding: 10px;
+}
+
+.index-body-albumphotos {
+  height: 250px;
+  width: auto;
+}
+
+.index-body-albumtitle {
+  margin-top: 10px;
+  color: black;
+}
+
+.index-body-albumtext {
+  color: grey;
+}
+
+/* Index ID */
+#index-ayoc {
+  margin-top: 20px;
+}
+
+#index-login-btn {
+  margin-right: 10px;
+}
+
+#index-navbar {
+  margin-left: 300px;
+  margin-right: 290px;
+  margin-top: 20px;
+}
+
+#index-sb {
+  background-color: #fefbea;
+}
+
+#index-sfc {
+  margin-right: 20px;
+}
+/* Landing Page Class */
+
+.checkmark {
+  float: left;
+  margin-right: 12px;
+}
+
+.lp-body {
+  margin-left: 250px;
+  margin-top: 100px;
+}
+
+.lp-partnerlogos {
+  width: 100%;
+  height: auto;
+}
+
+.lp-ul {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Landing Page ID */
+#lp-bodyhead {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 60px;
+}
+
+#lp-footer {
+  font-size: 18px;
+}
+
+#lp-mainimage {
+  width: 100%;
+  height: auto;
+}
+
+#lp-navbar-logo {
+  margin-left: 250px;
+  margin-top: 30px;
+}
+
+#lp-vcbtn {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 17px;
+}
+
+/* Login class */
+.login-testimonialtext {
+  position: relative;
+  left: 200px;
+  top: 300px;
+  max-width: 350px;
+  line-height: 50px;
+}
+
+.login-details {
+  height: 50px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+/* Login ID */
+#login-bodyheader {
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+#login-body {
+  max-width: 700px;
+}
+
+#login-button {
+  width: 700px;
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+/* LI ID  */
+#LI_logout {
+  text-decoration: none;
+  margin-left: 10px;
+}
